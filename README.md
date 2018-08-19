@@ -1,6 +1,7 @@
-# ReduxSimpleStarter
+# Redux Weather
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A weather web application built with react, redux, webpack, babel, redux-promise, Google Maps API, and react sparklines.
+[screenshot.png]
 
 ### Getting Started
 
