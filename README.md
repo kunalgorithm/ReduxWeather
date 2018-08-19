@@ -1,7 +1,7 @@
 # Redux Weather
 
 A weather web application built with react, redux, webpack, babel, redux-promise, Google Maps API, and react sparklines.
-[screenshot.png]
+![alt screenshot](https://github.com/kunalgorithm/ReduxWeather/blob/master/screenshot.png)
 
 ### Getting Started
 
